@@ -7,7 +7,7 @@ Have you ever wondered if a news article you read is real or fake? With so much 
 💡 What This Project Does
 👉 This web app lets users paste any news content, and it instantly tells whether the news is REAL or FAKE.
 👉 It’s trained using real datasets of news articles — no guesswork, just solid AI logic!
-👉 It's smart, fast, and super easy to use — all built with Python and a clean web interface using Streamlit.
+👉 It's smart, fast, and super easy to use — all built with Python and a clean web interface using tkinter.
 
 📚 What I Used
 Python – for all the backend logic
@@ -18,7 +18,7 @@ TfidfVectorizer – to convert text into numbers
 
 Logistic Regression – my ML model of choice
 
-Streamlit – to create the web app
+tkinter – to create the web app
 
 Joblib – to save and load my model
 
